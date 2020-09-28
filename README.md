@@ -1,4 +1,3 @@
-# Introduction:
 ## Exercise 1
 * Write a function that takes OfferDetails as input, and returns FaceValue as output.
 
